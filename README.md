@@ -31,6 +31,7 @@ In Admin View, Admin will view lists all the data entered by visitors as a table
     
     Open the new terminal
     Start Mongo: sudo service mongod start
+    
 
     To start the Back-end: 
     Use Command:
@@ -44,3 +45,11 @@ In Admin View, Admin will view lists all the data entered by visitors as a table
 - [x] Analyse Requirement
 - [x] Worked on Admin View 
 - [x] Worked on Visitor View
+
+# Architecture:
+ This application can be run locally on a user's machine which includes: 
+
+ * MongoDB (database)</summary>
+ * NodeJS (web server and execution environment)
+ * ExpressJS (API)
+ * VueJS (front-end)
